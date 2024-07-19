@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Landon</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A cybersecurity enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Structures, Java**
+- 🌱 I’m currently learning **Scripting, Python**
 
 - 📫 How to reach me **landoncraft04@gmail.com**
 
-- ⚡ Fun fact **I go rock climbing!**
+- ⚡ Fun fact **I'm a guitarist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
