@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/channel/UCneGyspYEbvDlsYHj4HDljg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ow_lando" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/landoncraft04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="landoncraft04" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/landon-craft/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.landoncraft.site/" target="blank"><img align="center" src="https://www.landoncraft.site/" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://www.landoncraft.site/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn-to-coding-code-org.en.softonic.com%2Fandroid&psig=AOvVaw0ausXTwH6GrzzaM6lmAun5&ust=1745459804055000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiR19iG7YwDFQAAAAAdAAAAABAE" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
