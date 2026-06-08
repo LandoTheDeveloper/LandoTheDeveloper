@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Landon</h1>
-<h3 align="center">A cybersecurity enthusiast</h3>
+<h3 align="center">A recent Computer Science graduate</h3>
 
 - 🌱 I’m currently learning about **Security Analysis**
 
