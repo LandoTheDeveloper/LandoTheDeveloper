@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Landon</h1>
 <h3 align="center">A recent Computer Science graduate</h3>
 
-- 🌱 I’m currently learning about **Security Analysis**
+- 🌱 I’m currently learning about **C#**
 
 - 📫 How to reach me **landoncraftbiz@gmail.com**
 
